@@ -1,5 +1,5 @@
 {
-  "name": "XBOT REMIX",
+  "name": "XBOT XTRA",
   "description": "[XBOT] A modular Telegram userbot running on Python 3.7+ with an sqlalchemy database.",
   "keywords": [
     "telegram",
@@ -8,9 +8,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/X-Newbie/XBot-Remix",
+  "repository": "https://github.com/X-Abusu12/XBot-Xtra",
   "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02",
-  "success_url": "https://t.me/XBOT_SUPPORT",
+  "success_url": "https://t.me/Melda_ni",
   "stack": "container",
   "env": {
     "API_KEY": {
